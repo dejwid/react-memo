@@ -17,4 +17,5 @@ import Image16 from './memes/16.jpg';
 import Image17 from './memes/17.jpg';
 import Image18 from './memes/18.jpg';
 
-export default [Image01, Image02, Image03, Image04, Image05, Image06, Image07, Image08, Image09, Image10, Image11, Image12, Image13, Image14, Image15, Image16, Image17, Image18];
+const Images = [Image01, Image02, Image03, Image04, Image05, Image06, Image07, Image08, Image09, Image10, Image11, Image12, Image13, Image14, Image15, Image16, Image17, Image18];
+export default Images;
